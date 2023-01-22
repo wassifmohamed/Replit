@@ -1,0 +1,8 @@
+public class carD {
+    String make;
+    double price;
+    int year;
+    String color;
+
+
+}
